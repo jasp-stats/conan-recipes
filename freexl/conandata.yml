@@ -1,7 +1,7 @@
 sources:
   "2.0.99.cci.20260225":
     url: "https://github.com/shun2wang/freexl_jasp/archive/63781fe999efbac0de82dc1e078c2c2f701b3db9.tar.gz"
-    sha256: "7aea727f18172e44e53323b299a8204c38cbf61a099e7cf7cee415594577de57"
+    sha256: "42d027d5f723115a55b9f784bf569799bd9907845e6ce9b284f1c11976192680"
   "2.0.99.cci.20250526":
     url: "https://github.com/jasp-stats/freexl/archive/92f31bba661129948c34b3941dd0bab28511fbb1.tar.gz"
     sha256: "baedf906e47122fc7f53dc77b12b628fd437ff83cc7a73acfbc985c2b9fc9120"
