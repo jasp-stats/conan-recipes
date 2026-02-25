@@ -1,5 +1,5 @@
 sources:
-  "2.0.99.cci.20260210":
+  "2.0.99.cci.20260225":
     url: "https://github.com/shun2wang/freexl_jasp/archive/9ffd335fda0b45b49b8addbe65df504e872c8091.tar.gz"
     sha256: "839d7c5ea0598a19116306b4b9c66265cb0d684d0ab45dd5d1684f0ff6027b94"
   "2.0.99.cci.20250526":
